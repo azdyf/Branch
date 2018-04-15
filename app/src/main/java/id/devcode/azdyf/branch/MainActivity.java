@@ -53,5 +53,7 @@ public class MainActivity extends AppCompatActivity {
     public void newMethod() {
         int i = 2+2;
 
+        String test = "test";
+
     }
 }
