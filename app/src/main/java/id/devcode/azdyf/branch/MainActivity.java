@@ -51,9 +51,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void newMethod() {
-        int i = 2+2;
+        int i = 3+3;
 
         String test = "test";
+
+        boolean True = false;
 
     }
 }
