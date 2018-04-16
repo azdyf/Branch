@@ -58,8 +58,8 @@ public class MainActivity extends AppCompatActivity {
         String iString = Integer.toString(i);
         String iiString;
 
-        if (i <= 100) {
-            iiString = Integer.toString(ii + 9);
+        if (i >= 100) {
+            iiString = Integer.toString(ii * 9);
         }
     }
 }
